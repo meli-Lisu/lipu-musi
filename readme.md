@@ -1,6 +1,6 @@
 o sona e ni: toki pona li sin tawa mi. sina sona ala e ijo la o lukin e lipu ni lon toki Inli.
 
-(Disclaimer: I am new to toki pona. If you don't understand something, please read the English readme)
+(Disclaimer: I am new to toki pona. If you don't understand something, please read the [English readme](readmeEN.md))
 
 # ni li seme?
 mi musi la kulupu jan pi toki pona taso li pali e lipu musi ("playing cards"). ni li lipu musi ni.
