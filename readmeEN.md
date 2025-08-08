@@ -12,8 +12,13 @@ Make some up! This is a new frontier for games. Have fun!
 
 # I don't know toki pona, what's in each folder?
 namako ala - "Nothing extra", just the card images
+
 tawa esun MPC - "For MPC", card images formatted for MakePlayingCards (if you want custom prints)
+
 tawa musi TTS - "For TTS", card images formatted for Tabletop Simulator
+
 lipu musi ale.pdn - The original paint.net file used to create the cards (lots of layers)
-olukin.md - The toki pona version of this readme
-readme.md - This file you're reading
+
+readme.md - The toki pona version of this readme
+
+readmeEN.md - This file you're reading
