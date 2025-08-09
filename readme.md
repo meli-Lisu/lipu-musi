@@ -20,3 +20,7 @@ o pali e musi! ni li ma sin tawa musi. o musi!
 esun MPC li esun MakePlayingCards. sina ken esun lipu sitelen tan esun ni.
 
 musi TTS li musi Tabletop Simulator. sina ken musi kepeken ilo lon musi ni.
+
+# sina kepeken sitelen seme?
+
+mi kepeken [nasin nanpa](https://github.com/etbcor/nasin-nanpa)
