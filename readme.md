@@ -14,6 +14,8 @@ lipu kute 35 li lon. lipu kute li jo e sitelen 7 e kute 5. lipu lawa 5 li lon. l
 # mi ken musi e musi seme?
 o pali e musi! ni li ma sin tawa musi. o musi!
 
+(sina pali e musi la, o pana e ona tawa mi)
+
 # seme li "esun MPC" li "musi TTS"
 esun MPC li esun MakePlayingCards. sina ken esun lipu sitelen tan esun ni.
 
