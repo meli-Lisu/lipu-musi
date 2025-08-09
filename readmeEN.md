@@ -10,6 +10,8 @@ A kulupu lipu ("full deck") consists of two of each lipu kute and four of each l
 # What games can I play with it?
 Make some up! This is a new frontier for games. Have fun!
 
+(If you do make some, send them to me please)
+
 # I don't know toki pona, what's in each folder?
 namako ala - "Nothing extra", just the card images
 
