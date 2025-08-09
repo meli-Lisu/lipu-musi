@@ -24,3 +24,7 @@ lipu musi ale.pdn - The original paint.net file used to create the cards (lots o
 readme.md - The toki pona version of this readme
 
 readmeEN.md - This file you're reading
+
+# What font did you use?
+
+I used the font [nasin nanpa](https://github.com/etbcor/nasin-nanpa)
